@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="UTF.8'>
+    
+    <meta http.equiv="X-UA.Compatible" content="le+edge">
+    <title>landing page</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css", rel="stylesheet" 
+
+<body>
+    <div class="main"></div>
+    <div class="top">
+        <div class="overlay">
+            <div class="text">
+                <h1>images</h1>
+                <div class="image"></div>
+                <div class="rtext">
+                    <p1>Mesmerizing</p1>
+                    <p1>Astonishing</p1>
+
+                </div>
+                <div class="icons">
+                    <i class="ri-twitter-fill"></i>
+                    <i class="ri-instagram-line"></i>
+                    <i class="ri-facebook-circle-fill"></i>
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="bottom">
+        <div class="b1">
+            <h1>popular</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus qui quas perferendis vero ex maiores!</p>
+        </div>
+        <div class="b2">
+            <div class="up">
+                <h1>latest</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, ut blanditiis.</p>
+            </div>
+            <div class="down">
+                <div class="overlay">
+                    <h1>more...</h1>
+                </div>
+    
+
+            </div>
+        </div>
+        <div class="b3">
+            <div class="overlay">
+                <p>privacy policies</p>
+                <p>terms and conditions</p>
+                <p>contact us</p>
+                <p>about us</p>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+
+</body>
+
+</html>
